@@ -1,4 +1,4 @@
-### Colin Perepelken 👋
+### Hi 👋, I'm Colin Perepelken
 `Senior Software Engineer @ Spare`
 
 - 🚌 I'm currently working with [Spare](https://sparelabs.com/en) 🚌 to build the future of on-demand transportation.
