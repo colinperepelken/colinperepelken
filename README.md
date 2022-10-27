@@ -1,11 +1,11 @@
 ### Colin Perepelken 👋
 `Senior Software Engineer @ Spare`
 
-I'm currently working with [Spare](https://sparelabs.com/en) 🚌 to build the future of on-demand transportation.
-
-💻 Checkout my portfolio website at [perepelken.ca](https://perepelken.ca)
-
-🏡 Kelowna, British Columbia, Canada
+- 🚌 I'm currently working with [Spare](https://sparelabs.com/en) 🚌 to build the future of on-demand transportation.
+- 💻 View my portfolio website at [perepelken.ca](https://perepelken.ca)
+- 🚵‍♂️ I love mountain biking, bike touring, and bike maintenance. I built [bikegears.ca](https://bikegears.ca) to help cyclists understand gear ratios.
+- 📓 I'm currently building a new portfolio and [blog](https://github.com/colinperepelken/blog) in my free time.
+- 🏡 Kelowna, British Columbia, Canada
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperepelken&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinperepelken&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
