@@ -7,9 +7,9 @@ I'm currently working with [Spare](https://sparelabs.com/en) 🚌 to build the f
 
 🏡 Kelowna, British Columbia, Canada
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperepelken&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinperepelken&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperepelken&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
