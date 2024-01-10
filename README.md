@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Colin Perepelken
-`Senior Software Engineer @ Spare`
+`Senior Software Developer @ Spare`
 
 - 🚌 I'm currently working with [Spare](https://sparelabs.com/en) to build the future of sustainable transportation.
 - 💻 You can view my portfolio website at [perepelken.ca](https://perepelken.ca)
